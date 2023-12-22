@@ -1,0 +1,8 @@
+node_modules
+npm-debug.log
+.DS_Store
+dist
+.dockerignore
+.git
+.gitignore
+minio-data
